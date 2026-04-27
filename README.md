@@ -1,1 +1,8 @@
 # appmaster-updates
+
+
+{
+  "versao": "1.3",
+  "mensagem": "Nova versão disponível!",
+  "url_apk": "https://nut-appointed-silicon-freeware.trycloudflare.com/version.json"
+}
